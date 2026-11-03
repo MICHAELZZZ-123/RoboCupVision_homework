@@ -2,9 +2,8 @@ from pathlib import Path
 from os import makedirs
 from random import randint
 
-p=Path(__file__).resolve().parent
-image=p/"img"
-makedirs(image, exist_ok=True)
+images=Path(__file__).resolve().parent/"img"
+makedirs(images, exist_ok=True)
 names=set()
 while len(names)<100:
     s=""
@@ -15,4 +14,4 @@ while len(names)<100:
         s+=str(c)
     names.add(s)
 for name in names:
-    (image/f"{name}.png").write_text("")
+    (images/f"{name}.png").write_text("")
