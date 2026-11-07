@@ -1,5 +1,0 @@
-e-python
-$-python
-J-python
-G-python
-G-python

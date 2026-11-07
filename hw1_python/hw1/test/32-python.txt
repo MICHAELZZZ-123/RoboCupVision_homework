@@ -1,5 +1,0 @@
-z-python
-W-python
-T-python
-i-python
-"-python

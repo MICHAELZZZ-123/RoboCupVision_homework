@@ -1,5 +1,0 @@
-$-python
-_-python
-o-python
-\-python
-n-python

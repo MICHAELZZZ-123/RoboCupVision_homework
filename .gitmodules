@@ -1,0 +1,6 @@
+[submodule "hw1_python"]
+	path = hw1_python
+	url = https://github.com/MICHAELZZZ-123/hw1_python.git
+[submodule "hw2_cv1"]
+	path = hw2_cv1
+	url = https://github.com/MICHAELZZZ-123/cv1.git

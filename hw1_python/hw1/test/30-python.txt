@@ -1,5 +1,0 @@
-n-python
-s-python
-'-python
-^-python
-^-python

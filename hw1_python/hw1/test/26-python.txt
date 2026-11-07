@@ -1,5 +1,0 @@
-d-python
-e-python
-k-python
-?-python
-R-python

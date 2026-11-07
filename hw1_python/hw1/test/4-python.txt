@@ -1,5 +1,0 @@
-X-python
-}-python
-v-python
-H-python
-+-python

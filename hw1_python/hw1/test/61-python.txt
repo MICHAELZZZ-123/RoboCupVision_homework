@@ -1,5 +1,0 @@
-w-python
-K-python
-L-python
-B-python
-I-python

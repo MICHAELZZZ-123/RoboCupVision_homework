@@ -1,5 +1,0 @@
-F-python
-O-python
-.-python
-G-python
-0-python

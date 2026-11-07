@@ -1,5 +1,0 @@
-u-python
-7-python
-:-python
-P-python
-B-python

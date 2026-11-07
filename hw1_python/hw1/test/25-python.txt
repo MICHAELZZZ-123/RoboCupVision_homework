@@ -1,5 +1,0 @@
-S-python
-j-python
-D-python
-g-python
-m-python

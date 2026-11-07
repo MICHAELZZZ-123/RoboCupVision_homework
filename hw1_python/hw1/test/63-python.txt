@@ -1,5 +1,0 @@
-]-python
-|-python
-?-python
-8-python
-V-python

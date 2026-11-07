@@ -1,5 +1,0 @@
-{-python
-H-python
-l-python
-J-python
-|-python

@@ -1,5 +1,0 @@
-K-python
-v-python
-7-python
-A-python
-F-python

@@ -1,5 +1,0 @@
-0-python
-J-python
-V-python
-d-python
-\-python

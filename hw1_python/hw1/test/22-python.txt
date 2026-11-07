@@ -1,5 +1,0 @@
-(-python
-N-python
-X-python
-K-python
-J-python

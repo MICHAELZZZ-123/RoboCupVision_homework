@@ -1,5 +1,0 @@
-[-python
-m-python
-`-python
-P-python
-j-python

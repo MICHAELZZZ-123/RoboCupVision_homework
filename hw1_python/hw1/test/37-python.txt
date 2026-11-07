@@ -1,5 +1,0 @@
-i-python
-8-python
-K-python
-3-python
-*-python

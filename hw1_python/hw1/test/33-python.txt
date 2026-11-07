@@ -1,5 +1,0 @@
-~-python
-F-python
-w-python
-T-python
-?-python
